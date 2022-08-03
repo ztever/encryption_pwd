@@ -1,0 +1,3 @@
+#! /usr/bin/env node
+// 文件没有执行权限，在控制台执行 chmod +x bin/anyHttp  ll bin/anyHttp 看是否有写入的权限
+require("../index.js");

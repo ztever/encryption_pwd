@@ -1,0 +1,23 @@
+{
+  "name": "encryption_pwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "anyHttp": "bin/encryptPWD"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztever/encryption_pwd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ztever/encryption_pwd/issues"
+  },
+  "homepage": "https://github.com/ztever/encryption_pwd#readme"
+}
