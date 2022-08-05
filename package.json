@@ -15,7 +15,7 @@
     "url": "git+https://github.com/ztever/encryption_pwd.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ztever/encryption_pwd/issues"
   },
