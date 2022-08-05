@@ -1,7 +1,7 @@
 {
   "name": "encryption_pwd",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "加密",
   "main": "index.js",
   "bin": {
     "anyHttp": "bin/encryptPWD"
